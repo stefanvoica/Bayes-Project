@@ -1,0 +1,124 @@
+{
+  "articole": [
+    {
+      "categorie": "Sport",
+      "continut": "Simona Halep a câștigat recent turneul de la Madrid, un triumf important pentru cariera ei, aducându-i recunoaștere internațională în lumea tenisului. Victoriile consecutive împotriva jucătoarelor de top au demonstrat forma sa excelentă."
+    },
+    {
+      "categorie": "Economie",
+      "continut": "Guvernul a lansat un nou program de stimulente pentru startup-urile din domeniul tehnologiei, oferind granturi și facilități fiscale. Inițiativa vizează atragerea investitorilor străini și susținerea inovației autohtone."
+    },
+    {
+      "categorie": "Politică",
+      "continut": "În ultima conferință internațională, premierul României a subliniat importanța cooperării transfrontaliere în gestionarea crizei migratorii. Propunerile sale au primit sprijin larg din partea liderilor europeni."
+    },
+    {
+      "categorie": "Sport",
+      "continut": "Echipa națională de fotbal a României a avansat în preliminariile pentru Campionatul European după o victorie decisivă de 3-0 împotriva Sloveniei. Performanța jucătorilor a fost laudată de critici și suporteri deopotrivă."
+    },
+    {
+      "categorie": "Economie",
+      "continut": "România a înregistrat o creștere economică de 2.5% în ultimul trimestru, depășind așteptările analiștilor. Sectoarele de construcții și servicii au fost principalii motori ai acestei creșteri."
+    },
+    {
+      "categorie": "Politică",
+      "continut": "Reforma sistemului de sănătate a fost adoptată după luni de dezbateri intense în Parlament. Noile reglementări vizează îmbunătățirea accesului la servicii medicale pentru toate categoriile sociale."
+    },
+    {
+      "categorie": "Sport",
+      "continut": "CSM București a câștigat Liga Națională de handbal feminin, un titlu așteptat de mulți ani. Finala intensă a atras atenția națională asupra sportului, inspirând multe tinere să practice handbalul."
+    },
+    {
+      "categorie": "Economie",
+      "continut": "Orașul Cluj-Napoca a fost clasat ca unul dintre cele mai atractive hub-uri tehnologice din Europa de Est, atrăgând investiții majore în ultimul an. Acest succes se datorează, în parte, colaborării eficiente între universități și industrie."
+    },
+    {
+      "categorie": "Politică",
+      "continut": "Legea privind transparența în administrația publică a fost promulgată recent, obligând instituțiile de stat să publice online toate deciziile și contractele. Această măsură este văzută ca un pas major în lupta împotriva corupției."
+    },
+    {
+      "categorie": "Sport",
+      "continut": "Turneul internațional de tenis de la București va fi amânat din cauza condițiilor meteorologice nefavorabile. Organizatorii își exprimă regretul pentru această decizie și promit o reprogramare rapidă."
+    },
+    {
+      "categorie": "Economie",
+      "continut": "Industria autohtonă a vinului a cunoscut o expansiune remarcabilă, cu o creștere de 15% a exporturilor în acest an. Vinurile românești încep să fie apreciate tot mai mult pe piețele internaționale, datorită calității în creștere."
+    },
+    {
+      "categorie": "Politică",
+      "continut": "Ministrul Educației a anunțat un nou curriculum școlar care va fi implementat începând cu anul școlar viitor. Schimbările includ mai multe ore de științe și o nouă abordare a educației fizice și sportive."
+    },
+    {
+      "categorie": "Politică",
+      "continut": "Prințul William a oferit detalii recente despre starea de sănătate a Ducesei de Cambridge, Kate Middleton, după tratamentele de chimioterapie. El a exprimat optimism și recunoștință pentru sprijinul primit din partea publicului și a profesioniștilor din sănătate."
+    },
+    {
+      "categorie": "Economie",
+      "continut": "O femeie din Constanța va primi despăgubiri de 50.000 de euro după ce a fost diagnosticată greșit și operată de cancer, într-un caz care a stârnit discuții aprinse despre standardele în domeniul medical și etica profesională în România."
+    },
+    {
+      "categorie": "Sport",
+      "continut": "Florin Iordache a surprins audiența și juriul la 'Vocea României' cu o interpretare swing, care a culminat cu o decizie neașteptată de a alege un concurent născut în aceeași zi cu el, demonstrând un stil personal și neconvențional de a evalua performanțele."
+    },
+    {
+      "categorie": "Economie",
+      "continut": "Reluarea lucrărilor la Centura Capitalei, abandonate acum două decenii, promite îmbunătățirea semnificativă a traficului în zona metropolitană București. Proiectul include modernizarea a două puncte critice, esențiale pentru fluidizarea circulației și reducerea timpilor de așteptare."
+    },
+    {
+      "categorie": "Politică",
+      "continut": "Xi Jinping a intensificat retorica privind necesitatea 'reunificării' Chinei cu Taiwanul, într-un discurs recent care a amplificat tensiunile internaționale. Liderul chinez a afirmat că 'nimeni nu va putea opri marșul' spre acest obiectiv, provocând reacții mixte pe scena mondială."
+    },
+    {
+      "categorie": "Sport",
+      "continut": "Medalia de aur câștigată de România la Jocurile Paralimpice de la Paris prin Alexandru Bologa în proba de para-judo a fost o victorie emoționantă. Bologa, care și-a pierdut vederea în copilărie, a devenit un simbol al perseverenței și al spiritului neînvins."
+    },
+    {
+      "categorie": "Economie",
+      "continut": "Tinerii români arată un interes crescând pentru studiile în Asia, cu un număr mare de studenți care optează pentru universități din China datorită costurilor accesibile și oportunităților emergente în regiune. Acest trend reflectă schimbările din dinamica globală a educației superioare."
+    },
+    {
+      "categorie": "Politică",
+      "continut": "Ambasada României în SUA a făcut un anunț important despre eliminarea vizelor pentru români începând cu 2025, marcând un progres semnificativ în relațiile bilaterale între cele două țări. Acest pas este văzut ca un impuls pentru mobilitatea cetățenilor și întărirea legăturilor transatlantice."
+    },
+      {
+      "categorie": "Politică",
+      "continut": "Guvernul României a propus un nou proiect de lege care vizează reducerea dependenței energetice prin investiții masive în energia regenerabilă. Proiectul include subvenții pentru panouri solare și turbine eoliene, cu scopul de a atinge neutralitatea carbonului până în 2050. Premierul a subliniat importanța acestui proiect pentru viitorul energetic al țării."
+    },
+    {
+      "categorie": "Economie",
+      "continut": "Piața imobiliară din România continuă să crească, înregistrând o creștere de 10% în primele șase luni ale anului. Specialiștii atribuie această evoluție cererii crescute de locuințe în marile orașe și accesibilității creditelor ipotecare. Dezvoltatorii imobiliari anunță noi proiecte rezidențiale în zonele metropolitane."
+    },
+    {
+      "categorie": "Sport",
+      "continut": "FCSB a câștigat derby-ul împotriva Dinamo București, cu scorul de 3-2, într-un meci dramatic. Golul decisiv a fost marcat de Florinel Coman în ultimele minute ale partidei. Antrenorul echipei a lăudat performanța jucătorilor și sprijinul suporterilor prezenți pe stadion."
+    },
+    {
+      "categorie": "Politică",
+      "continut": "Parlamentul European a aprobat o nouă directivă care încurajează utilizarea mașinilor electrice. România urmează să implementeze măsuri suplimentare pentru a sprijini tranziția, inclusiv construirea de stații de încărcare în toate orașele mari. Ministrul Mediului a declarat că acest pas este esențial pentru reducerea emisiilor de gaze cu efect de seră."
+    },
+    {
+      "categorie": "Economie",
+      "continut": "Compania de tehnologie românească Bitdefender a anunțat o nouă soluție de securitate cibernetică, care promite protecție sporită împotriva atacurilor de tip ransomware. Produsul, destinat atât companiilor, cât și utilizatorilor individuali, a fost deja implementat de mai multe instituții guvernamentale din Europa."
+    },
+    {
+      "categorie": "Sport",
+      "continut": "Naționala României de volei masculin a obținut calificarea la Campionatul European, după o victorie impresionantă împotriva Ungariei. Antrenorul echipei a declarat că munca intensă din ultimele luni a dat roade, iar jucătorii sunt pregătiți pentru provocările viitoare."
+    },
+    {
+      "categorie": "Politică",
+      "continut": "Președintele României a organizat o întâlnire cu liderii partidelor parlamentare pentru a discuta despre reforma sistemului de justiție. Scopul principal al reformei este asigurarea independenței sistemului judiciar și îmbunătățirea accesului cetățenilor la justiție."
+    },
+    {
+      "categorie": "Economie",
+      "continut": "România a semnat un acord cu Banca Europeană pentru Reconstrucție și Dezvoltare (BERD) pentru finanțarea unui nou proiect de infrastructură rutieră. Proiectul vizează construcția unei autostrăzi care va lega Bucureștiul de Timișoara, reducând semnificativ timpul de călătorie."
+    },
+    {
+      "categorie": "Sport",
+      "continut": "Echipa națională de baschet feminin a României a debutat cu o victorie în preliminariile pentru EuroBasket 2025. Meciul împotriva Bulgariei s-a încheiat cu scorul de 78-65, iar echipa a fost lăudată pentru jocul colectiv și determinarea de pe teren."
+    },
+    {
+      "categorie": "Politică",
+      "continut": "Ministerul Apărării a anunțat achiziționarea de noi echipamente militare, inclusiv drone și sisteme de apărare aeriană. Acest pas este văzut ca o măsură necesară pentru întărirea capacităților defensive ale României în contextul tensiunilor din regiune."
+    }
+  ]
+}
